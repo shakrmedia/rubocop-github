@@ -7,3 +7,5 @@ Style/StringLiterals:
 Style/NumericLiteralPrefix:
   Enabled: false
 
+Metrics/LineLength:
+  Max: 120
